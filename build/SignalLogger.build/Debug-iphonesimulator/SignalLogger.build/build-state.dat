@@ -1,0 +1,1181 @@
+TSignalLogger
+v7
+r0
+t321284803.020012
+cCheck dependencies
+cProcessInfoPlistFile /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/Info.plist SignalLogger-Info.plist
+cCompileXIB /Users/jlochner/Documents/SignalLogger/FlipsideView.xib
+cCompileXIB /Users/jlochner/Documents/SignalLogger/MainView.xib
+cCompileXIB /Users/jlochner/Documents/SignalLogger/MainWindow.xib
+cProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/main.o /Users/jlochner/Documents/SignalLogger/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SignalLoggerAppDelegate.o /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/MainViewController.o /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/FlipsideViewController.o /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SLlocationController.o /Users/jlochner/Documents/SignalLogger/SLlocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger normal i386
+cGenerateDSYMFile /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app.dSYM /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger
+cTouch /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004C5A4D8A00000000001C17C0
+t1280986506
+s1841088
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004C5A4D6600000000000004CF
+t1280986470
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C5A4C8C0000000000000AB3
+t1280986252
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FF1000000000006B7E0
+t1282158577
+s440288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FEA00000000000001D0
+t1282158570
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004486036800000000000003A8
+t1149633384
+s936
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000004C623DE600000000000CCD10
+t1281506790
+s838928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers/CTCall.h
+c000000004C623DDA0000000000000539
+t1281506778
+s1337
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers/CTTelephonyNetworkInfo.h
+c000000004C623DDA00000000000004F6
+t1281506778
+s1270
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C5E1EEF00000000000028E4
+t1281236719
+s10468
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E1EEF00000000000000CD
+t1281236719
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E1EFD0000000000091C50
+t1281236733
+s597072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/AssertMacros.h
+c000000004C57A039000000000000D667
+t1280811065
+s54887
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/errno.h
+c000000004C57909100000000000003EB
+t1280807057
+s1003
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/netdb.h
+c000000004A4181220000000000003057
+t1245806882
+s12375
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/netinet/in.h
+c000000004C5798F80000000000005462
+t1280809208
+s21602
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/sys/socket.h
+c000000004C5798EC00000000000059D6
+t1280809196
+s22998
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC1221800000000000004CF
+t1287725592
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004CC1219F0000000000000AB3
+t1287725471
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004CC127DD00000000000001D0
+t1287727069
+s464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000004CC122BC00000000000C2CC0
+t1287725756
+s797888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers/CTCall.h
+c000000004CC122B500000000000005BB
+t1287725749
+s1467
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004CC6561F000000000000291C
+t1288066591
+s10524
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004CC6561F00000000000000CD
+t1288066591
+s205
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004CC6562D000000000009BEC0
+t1288066605
+s638656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/dlfcn.h
+c000000004AB98DF40000000000000B1C
+t1253674484
+s2844
+
+N/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.h
+c000000004D6D643A0000000000000234
+t1299014714
+s564
+i<UIKit/UIKit.h>
+
+N/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m
+c000000004D6D643B0000000000000459
+t1299014715
+s1113
+i"FlipsideViewController.h"
+
+N/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.h
+c000000004D762BAA0000000000000322
+t1299590058
+s802
+i"FlipsideViewController.h"
+i"SLlocationController.h"
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i<CoreTelephony/CTCall.h>
+
+N/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m
+c000000004D762C970000000000001A79
+t1299590295
+s6777
+i"MainViewController.h"
+i"CoreTelephony.h"
+i<dlfcn.h>
+
+N/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.h
+c000000004D6D643B00000000000001EB
+t1299014715
+s491
+i<UIKit/UIKit.h>
+
+N/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m
+c000000004D6D643B0000000000000AAD
+t1299014715
+s2733
+i"SignalLoggerAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/jlochner/Documents/SignalLogger/CoreTelephony.h
+c000000004D7515CB0000000000000590
+t1299518923
+s1424
+i<CoreFoundation/CoreFoundation.h>
+
+N/Users/jlochner/Documents/SignalLogger/FlipsideView.xib
+c000000004D6D643B0000000000004C63
+t1299014715
+s19555
+
+N/Users/jlochner/Documents/SignalLogger/MainView.xib
+c000000004D6D977800000000000066F8
+t1299027832
+s26360
+
+N/Users/jlochner/Documents/SignalLogger/MainWindow.xib
+c000000004D6D643B00000000000050AC
+t1299014715
+s20652
+
+N/Users/jlochner/Documents/SignalLogger/NetPing.h
+c000000004D6EC5060000000000001EA1
+t1299105030
+s7841
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<CoreServices/CoreServices.h>
+
+N/Users/jlochner/Documents/SignalLogger/NetPing.m
+c000000004D6ECEA400000000000069E7
+t1299107492
+s27111
+i"NetPing.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<errno.h>
+
+N/Users/jlochner/Documents/SignalLogger/Pinger.h
+c000000004D6EA3810000000000000189
+t1299096449
+s393
+i<Foundation/Foundation.h>
+i"SimplePing.h"
+
+N/Users/jlochner/Documents/SignalLogger/Pinger.m
+c000000004D6EA4510000000000001706
+t1299096657
+s5894
+i"Pinger.h"
+i<sys/socket.h>
+i<netdb.h>
+
+N/Users/jlochner/Documents/SignalLogger/SLlocationController.h
+c000000004D6D99070000000000000272
+t1299028231
+s626
+i<Foundation/Foundation.h>
+
+N/Users/jlochner/Documents/SignalLogger/SLlocationController.m
+c000000004D6E2C700000000000000391
+t1299065968
+s913
+i"SLlocationController.h"
+
+N/Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch
+c000000004D6D98160000000000000192
+t1299027990
+s402
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/jlochner/Documents/SignalLogger/SimplePing.h
+c000000004BAB492C00000000000022E8
+t1269516588
+s8936
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<CoreServices/CoreServices.h>
+i<AssertMacros.h>
+
+N/Users/jlochner/Documents/SignalLogger/SimplePing.m
+c000000004D6EC22D0000000000004E22
+t1299104301
+s20002
+i"NetPing.h"
+i<sys/socket.h>
+i<netinet/in.h>
+i<errno.h>
+
+N/Users/jlochner/Documents/SignalLogger/VoiceServices.framework/VoiceServices
+c000000004D762A9F00000000000522F0
+t1299589791
+s336624
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app
+t1299590740
+s272
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app.dSYM
+t1299590295
+s102
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/FlipsideView.nib
+t1299015223
+s2077
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/Info.plist
+t1299590740
+s608
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/MainView.nib
+t1299027839
+s4156
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/MainWindow.nib
+t1299015224
+s1714
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/PkgInfo
+t1299590740
+s8
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger
+t1299590295
+s33492
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/FlipsideViewController.o
+t1299589812
+s37788
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/MainViewController.o
+t1299590295
+s63176
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/NetPing.o
+t2
+s0
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/Pinger.o
+t1299096657
+s28712
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SLlocationController.o
+t1299589813
+s13992
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SignalLogger.LinkFileList
+c000000004D762AB300000000000002D7
+t1299589811
+s727
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SignalLoggerAppDelegate.o
+t1299590111
+s49464
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SimplePing.o
+t1299096798
+s48740
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/main.o
+t1299589812
+s6304
+
+N/Users/jlochner/Documents/SignalLogger/main.m
+c000000004D6D643B000000000000016C
+t1299014715
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-aofmvvhycbbkmmcvyojlmzfayyyx/SignalLogger_Prefix.pch.gch
+t1299028575
+s15310096
+
+N/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-boaqzhmzlskusbarrhceygzzxaol/SignalLogger_Prefix.pch.gch
+t1299015225
+s15211536
+
+N/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fvrykdnmsuwhthagdqtoagoadpko/SignalLogger_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch.gch
+t2
+s0
+
+NSignalLogger-Info.plist
+c000000004D762E520000000000000375
+t1299590738
+s885
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321284802#321284803#0(0"0(0#1#0"8627868768#0"0#
+
+CCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/FlipsideViewController.o /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321282612.852179
+e321282612.976591
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m321282612#321282612#0(0"0(0#0#71"/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m8602898880#2099"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/MainViewController.o /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321283095.655470
+e321283095.801388
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/MainViewController.o
+x/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function '-[MainViewController timerTriggered:]':
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: implicit declaration of function 'getSignalStrength'
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: assignment makes pointer from integer without a cast
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function 'register_notification':
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:184: warning: passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type
+lSLF07#2@75"Compile /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#321283095#0(676"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function '-[MainViewController timerTriggered:]':/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: implicit declaration of function 'getSignalStrength'/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: assignment makes pointer from integer without a cast/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function 'register_notification':/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:184: warning: passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type3(22@52"Implicit declaration of function 'getSignalStrength'321283095#122#134#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#76#0#76#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast321283095#256#134#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#76#0#76#0#0"0(22@97"Passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type321283095#496#180#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#184#0#184#0#56"passing argument * of '*' from incompatible pointer type0(0#0#67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m8616570144#2091"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/NetPing.o /Users/jlochner/Documents/SignalLogger/NetPing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321282489.922727
+e321282490.145139
+r0
+xCompileC
+xbuild/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/NetPing.o
+x/Users/jlochner/Documents/SignalLogger/NetPing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function 'DisplayAddressForAddress':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:597: error: 'NI_MAXHOST' undeclared (first use in this function)
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:597: error: (Each undeclared identifier is reported only once
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:597: error: for each function it appears in.)
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:602: warning: implicit declaration of function 'getnameinfo'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:602: error: 'NI_NUMERICHOST' undeclared (first use in this function)
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:597: warning: unused variable 'hostStr'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:612: error: cannot find protocol declaration for 'SimplePingDelegate'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:614: error: expected specifier-qualifier-list before 'SimplePing'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:623: error: expected specifier-qualifier-list before 'SimplePing'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main dealloc]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:631: error: 'struct Main' has no member named '_pinger'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:632: error: 'struct Main' has no member named '_pinger'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:638: error: no declaration of property 'pinger' found in the interface
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main _shortErrorFromError:]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:661: warning: implicit declaration of function 'gai_strerror'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:661: warning: assignment makes pointer from integer without a cast
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main runWithHostName:]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:689: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:689: warning: 'NetPing' may not respond to '+snetPingWithHostName:'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:689: warning: (Messages without a matching method signature
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:689: warning: will be assumed to return 'id' and accept
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:689: warning: '...' as arguments.)
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:691: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:692: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:696: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main sendPing]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:703: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:704: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:707: error: expected ')' before 'SimplePing'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didStartWithAddress:]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:712: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:727: error: expected ')' before 'SimplePing'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didFailWithError:]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:732: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:742: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:745: error: expected ')' before 'SimplePing'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didSendPacket:]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:749: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:754: error: expected ')' before 'SimplePing'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didFailToSendPacket:error:]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:758: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:764: error: expected ')' before 'SimplePing'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didReceivePingResponsePacket:]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:768: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:770: error: 'SimplePing' undeclared (first use in this function)
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:773: error: expected ')' before 'SimplePing'
+o/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didReceiveUnexpectedPacket:]':
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:779: error: request for member 'pinger' in something not a structure or union
+o/Users/jlochner/Documents/SignalLogger/NetPing.m:782: error: 'SimplePing' undeclared (first use in this function)
+o{standard input}:2827:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" minus "L00000000027$pb"
+o{standard input}:2827:symbol: "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2795:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000026$pb"
+o{standard input}:2795:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2770:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000025$pb"
+o{standard input}:2770:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2745:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr" minus "L00000000024$pb"
+o{standard input}:2745:symbol: "L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2722:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr" minus "L00000000023$pb"
+o{standard input}:2722:symbol: "L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2699:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr" minus "L00000000022$pb"
+o{standard input}:2699:symbol: "L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2674:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr" minus "L00000000021$pb"
+o{standard input}:2674:symbol: "L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2649:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr" minus "L00000000020$pb"
+o{standard input}:2649:symbol: "L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2621:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_41" minus "L00000000019$pb"
+o{standard input}:2621:symbol: "L_OBJC_SELECTOR_REFERENCES_41" can't be undefined in a subtraction expression
+o{standard input}:2612:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_47" minus "L00000000019$pb"
+o{standard input}:2612:symbol: "L_OBJC_SELECTOR_REFERENCES_47" can't be undefined in a subtraction expression
+o{standard input}:2605:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_48" minus "L00000000019$pb"
+o{standard input}:2605:symbol: "L_OBJC_SELECTOR_REFERENCES_48" can't be undefined in a subtraction expression
+o{standard input}:2598:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_43" minus "L00000000019$pb"
+o{standard input}:2598:symbol: "L_OBJC_SELECTOR_REFERENCES_43" can't be undefined in a subtraction expression
+o{standard input}:2569:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000018$pb"
+o{standard input}:2569:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2560:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000018$pb"
+o{standard input}:2560:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2551:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000018$pb"
+o{standard input}:2551:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2542:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000018$pb"
+o{standard input}:2542:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2512:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"
+o{standard input}:2512:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2503:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"
+o{standard input}:2503:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2492:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"
+o{standard input}:2492:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2486:non-relocatable subtraction expression, "L_kCFRunLoopDefaultMode$non_lazy_ptr" minus "L00000000017$pb"
+o{standard input}:2486:symbol: "L_kCFRunLoopDefaultMode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2476:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"
+o{standard input}:2476:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2467:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"
+o{standard input}:2467:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2430:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_45" minus "L00000000016$pb"
+o{standard input}:2430:symbol: "L_OBJC_SELECTOR_REFERENCES_45" can't be undefined in a subtraction expression
+o{standard input}:2414:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"
+o{standard input}:2414:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2403:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"
+o{standard input}:2403:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2397:non-relocatable subtraction expression, "L_kCFRunLoopDefaultMode$non_lazy_ptr" minus "L00000000016$pb"
+o{standard input}:2397:symbol: "L_kCFRunLoopDefaultMode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2385:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"
+o{standard input}:2385:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2364:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"
+o{standard input}:2364:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2353:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_47" minus "L00000000016$pb"
+o{standard input}:2353:symbol: "L_OBJC_SELECTOR_REFERENCES_47" can't be undefined in a subtraction expression
+o{standard input}:2347:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"
+o{standard input}:2347:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2326:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"
+o{standard input}:2326:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2309:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_44" minus "L00000000016$pb"
+o{standard input}:2309:symbol: "L_OBJC_SELECTOR_REFERENCES_44" can't be undefined in a subtraction expression
+o{standard input}:2300:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000016$pb"
+o{standard input}:2300:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2260:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_46" minus "L00000000015$pb"
+o{standard input}:2260:symbol: "L_OBJC_SELECTOR_REFERENCES_46" can't be undefined in a subtraction expression
+o{standard input}:2245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_45" minus "L00000000015$pb"
+o{standard input}:2245:symbol: "L_OBJC_SELECTOR_REFERENCES_45" can't be undefined in a subtraction expression
+o{standard input}:2200:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000014$pb"
+o{standard input}:2200:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:2191:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000014$pb"
+o{standard input}:2191:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:2187:non-relocatable subtraction expression, "L_kCFErrorDomainCFNetwork$non_lazy_ptr" minus "L00000000014$pb"
+o{standard input}:2187:symbol: "L_kCFErrorDomainCFNetwork$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2184:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000014$pb"
+o{standard input}:2184:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:2175:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_44" minus "L00000000014$pb"
+o{standard input}:2175:symbol: "L_OBJC_SELECTOR_REFERENCES_44" can't be undefined in a subtraction expression
+o{standard input}:2164:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_43" minus "L00000000014$pb"
+o{standard input}:2164:symbol: "L_OBJC_SELECTOR_REFERENCES_43" can't be undefined in a subtraction expression
+o{standard input}:2142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_42" minus "L00000000014$pb"
+o{standard input}:2142:symbol: "L_OBJC_SELECTOR_REFERENCES_42" can't be undefined in a subtraction expression
+o{standard input}:2125:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_41" minus "L00000000014$pb"
+o{standard input}:2125:symbol: "L_OBJC_SELECTOR_REFERENCES_41" can't be undefined in a subtraction expression
+o{standard input}:2112:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000014$pb"
+o{standard input}:2112:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:2104:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000014$pb"
+o{standard input}:2104:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:2066:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_42" minus "L00000000014$pb"
+o{standard input}:2066:symbol: "L_OBJC_SELECTOR_REFERENCES_42" can't be undefined in a subtraction expression
+o{standard input}:2036:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000014$pb"
+o{standard input}:2036:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1982:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_40" minus "L00000000013$pb"
+o{standard input}:1982:symbol: "L_OBJC_SELECTOR_REFERENCES_40" can't be undefined in a subtraction expression
+o{standard input}:1976:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000013$pb"
+o{standard input}:1976:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:1969:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000013$pb"
+o{standard input}:1969:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1959:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000013$pb"
+o{standard input}:1959:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:1957:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_40" minus "L00000000013$pb"
+o{standard input}:1957:symbol: "L_OBJC_SELECTOR_REFERENCES_40" can't be undefined in a subtraction expression
+o{standard input}:1951:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000013$pb"
+o{standard input}:1951:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1943:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000013$pb"
+o{standard input}:1943:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1927:non-relocatable subtraction expression, "L_kCFRunLoopDefaultMode$non_lazy_ptr" minus "L00000000013$pb"
+o{standard input}:1927:symbol: "L_kCFRunLoopDefaultMode$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1901:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000013$pb"
+o{standard input}:1901:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1875:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000013$pb"
+o{standard input}:1875:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1854:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000013$pb"
+o{standard input}:1854:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1837:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000013$pb"
+o{standard input}:1837:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1819:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000013$pb"
+o{standard input}:1819:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:1809:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000013$pb"
+o{standard input}:1809:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:1806:non-relocatable subtraction expression, "L_NSPOSIXErrorDomain$non_lazy_ptr" minus "L00000000013$pb"
+o{standard input}:1806:symbol: "L_NSPOSIXErrorDomain$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1803:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000013$pb"
+o{standard input}:1803:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:1748:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000013$pb"
+o{standard input}:1748:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:1742:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000013$pb"
+o{standard input}:1742:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:1694:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_39" minus "L00000000012$pb"
+o{standard input}:1694:symbol: "L_OBJC_SELECTOR_REFERENCES_39" can't be undefined in a subtraction expression
+o{standard input}:1627:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000012$pb"
+o{standard input}:1627:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1581:non-relocatable subtraction expression, "L___stack_chk_guard$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:1581:symbol: "L___stack_chk_guard$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1569:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000011$pb"
+o{standard input}:1569:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:1559:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000011$pb"
+o{standard input}:1559:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:1556:non-relocatable subtraction expression, "L_NSPOSIXErrorDomain$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:1556:symbol: "L_NSPOSIXErrorDomain$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1553:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000011$pb"
+o{standard input}:1553:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:1534:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_38" minus "L00000000011$pb"
+o{standard input}:1534:symbol: "L_OBJC_SELECTOR_REFERENCES_38" can't be undefined in a subtraction expression
+o{standard input}:1527:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"
+o{standard input}:1527:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1517:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000011$pb"
+o{standard input}:1517:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:1515:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_37" minus "L00000000011$pb"
+o{standard input}:1515:symbol: "L_OBJC_SELECTOR_REFERENCES_37" can't be undefined in a subtraction expression
+o{standard input}:1509:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"
+o{standard input}:1509:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1501:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"
+o{standard input}:1501:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1489:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_36" minus "L00000000011$pb"
+o{standard input}:1489:symbol: "L_OBJC_SELECTOR_REFERENCES_36" can't be undefined in a subtraction expression
+o{standard input}:1482:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"
+o{standard input}:1482:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1472:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000011$pb"
+o{standard input}:1472:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:1470:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000011$pb"
+o{standard input}:1470:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression
+o{standard input}:1464:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"
+o{standard input}:1464:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1456:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"
+o{standard input}:1456:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:1445:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"
+o{standard input}:1445:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression
+o{standard input}:1419:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000011$pb"
+o{standard input}:1419:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression
+o{standard input}:1415:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000011$pb"
+o{standard input}:1415:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression
+o{standard input}:1382:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:1382:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1353:non-relocatable subtraction expression, "L___stack_chk_guard$non_lazy_ptr" minus "L00000000011$pb"
+o{standard input}:1353:symbol: "L___stack_chk_guard$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:1304:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000010$pb"
+o{standard input}:1304:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:1289:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000010$pb"
+o{standard input}:1289:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:1253:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000010$pb"
+o{standard input}:1253:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:1235:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000010$pb"
+o{standard input}:1235:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:1223:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000010$pb"
+o{standard input}:1223:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
+o{standard input}:1216:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000010$pb"
+o{standard input}:1216:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression
+o{standard input}:1177:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000009$pb"
+o{standard input}:1177:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:1164:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000009$pb"
+o{standard input}:1164:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression
+o{standard input}:1123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000008$pb"
+o{standard input}:1123:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:1072:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000008$pb"
+o{standard input}:1072:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:1063:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000008$pb"
+o{standard input}:1063:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:972:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000007$pb"
+o{standard input}:972:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression
+o{standard input}:963:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000007$pb"
+o{standard input}:963:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:949:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000007$pb"
+o{standard input}:949:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression
+o{standard input}:942:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"
+o{standard input}:942:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:932:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000007$pb"
+o{standard input}:932:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:930:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000007$pb"
+o{standard input}:930:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression
+o{standard input}:924:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"
+o{standard input}:924:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:916:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"
+o{standard input}:916:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:904:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000007$pb"
+o{standard input}:904:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:901:non-relocatable subtraction expression, "L_NSPOSIXErrorDomain$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:901:symbol: "L_NSPOSIXErrorDomain$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:898:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000007$pb"
+o{standard input}:898:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:879:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000007$pb"
+o{standard input}:879:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression
+o{standard input}:872:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"
+o{standard input}:872:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:862:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000007$pb"
+o{standard input}:862:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:860:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"
+o{standard input}:860:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression
+o{standard input}:854:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"
+o{standard input}:854:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:846:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"
+o{standard input}:846:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:837:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:837:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:805:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:805:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:798:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"
+o{standard input}:798:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:791:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:791:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:784:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"
+o{standard input}:784:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:778:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000007$pb"
+o{standard input}:778:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:771:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:771:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:765:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000007$pb"
+o{standard input}:765:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression
+o{standard input}:750:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000007$pb"
+o{standard input}:750:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:737:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"
+o{standard input}:737:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:730:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:730:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:716:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"
+o{standard input}:716:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:709:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:709:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:694:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"
+o{standard input}:694:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression
+o{standard input}:687:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:687:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:670:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000007$pb"
+o{standard input}:670:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:657:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000007$pb"
+o{standard input}:657:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression
+o{standard input}:640:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000007$pb"
+o{standard input}:640:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+o{standard input}:616:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"
+o{standard input}:616:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+o{standard input}:610:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"
+o{standard input}:610:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+o{standard input}:606:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000007$pb"
+o{standard input}:606:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression
+o{standard input}:597:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000007$pb"
+o{standard input}:597:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+o{standard input}:589:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000007$pb"
+o{standard input}:589:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+o{standard input}:565:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000007$pb"
+o{standard input}:565:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression
+o{standard input}:561:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000007$pb"
+o{standard input}:561:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression
+o{standard input}:501:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"
+o{standard input}:501:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+o{standard input}:489:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000006$pb"
+o{standard input}:489:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+o{standard input}:485:non-relocatable subtraction expression, "L_kCFErrorDomainCFNetwork$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:485:symbol: "L_kCFErrorDomainCFNetwork$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:482:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000006$pb"
+o{standard input}:482:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression
+o{standard input}:467:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000006$pb"
+o{standard input}:467:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+o{standard input}:460:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000006$pb"
+o{standard input}:460:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+o{standard input}:456:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000006$pb"
+o{standard input}:456:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+o{standard input}:453:non-relocatable subtraction expression, "L_kCFGetAddrInfoFailureKey$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:453:symbol: "L_kCFGetAddrInfoFailureKey$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:450:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000006$pb"
+o{standard input}:450:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+o{standard input}:444:non-relocatable subtraction expression, "L_kCFStreamErrorDomainNetDB$non_lazy_ptr" minus "L00000000006$pb"
+o{standard input}:444:symbol: "L_kCFStreamErrorDomainNetDB$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:407:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000005$pb"
+o{standard input}:407:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+o{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000005$pb"
+o{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:391:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000005$pb"
+o{standard input}:391:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+o{standard input}:389:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000005$pb"
+o{standard input}:389:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+o{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000005$pb"
+o{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:375:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000005$pb"
+o{standard input}:375:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+o{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000005$pb"
+o{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:361:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"
+o{standard input}:361:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:355:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000005$pb"
+o{standard input}:355:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+o{standard input}:327:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000004$pb"
+o{standard input}:327:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:318:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"
+o{standard input}:318:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:312:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000004$pb"
+o{standard input}:312:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:309:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000004$pb"
+o{standard input}:309:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:282:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000003$pb"
+o{standard input}:282:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+o{standard input}:273:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"
+o{standard input}:273:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+o{standard input}:267:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"
+o{standard input}:267:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+o{standard input}:264:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"
+o{standard input}:264:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+o{standard input}:237:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"
+o{standard input}:237:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+o{standard input}:233:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"
+o{standard input}:233:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:219:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:219:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:212:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"
+o{standard input}:212:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+o{standard input}:206:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" minus "L00000000002$pb"
+o{standard input}:206:symbol: "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:199:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"
+o{standard input}:199:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+o{standard input}:165:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:165:symbol: "L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:157:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:157:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:151:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:151:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:143:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+o{standard input}:143:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+o{standard input}:137:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:137:symbol: "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:126:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+o{standard input}:126:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+o{standard input}:122:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+o{standard input}:122:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+o{standard input}:unknown:Undefined local symbol L_kCFStreamErrorDomainNetDB$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+o{standard input}:unknown:Undefined local symbol L_kCFGetAddrInfoFailureKey$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4
+o{standard input}:unknown:Undefined local symbol L_kCFErrorDomainCFNetwork$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+o{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24
+o{standard input}:unknown:Undefined local symbol L_NSPOSIXErrorDomain$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32
+o{standard input}:unknown:Undefined local symbol L___stack_chk_guard$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_36
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_37
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_38
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_39
+o{standard input}:unknown:Undefined local symbol L_kCFRunLoopDefaultMode$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_40
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_42
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_41
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_43
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_44
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_45
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_46
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_47
+o{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_48
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr
+lSLF07#2@56"Compile /Users/jlochner/Documents/SignalLogger/NetPing.m321282489#321282490#0(54155"/Users/jlochner/Documents/SignalLogger/NetPing.m: In function 'DisplayAddressForAddress':/Users/jlochner/Documents/SignalLogger/NetPing.m:597: error: 'NI_MAXHOST' undeclared (first use in this function)/Users/jlochner/Documents/SignalLogger/NetPing.m:597: error: (Each undeclared identifier is reported only once/Users/jlochner/Documents/SignalLogger/NetPing.m:597: error: for each function it appears in.)/Users/jlochner/Documents/SignalLogger/NetPing.m:602: warning: implicit declaration of function 'getnameinfo'/Users/jlochner/Documents/SignalLogger/NetPing.m:602: error: 'NI_NUMERICHOST' undeclared (first use in this function)/Users/jlochner/Documents/SignalLogger/NetPing.m:597: warning: unused variable 'hostStr'/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:/Users/jlochner/Documents/SignalLogger/NetPing.m:612: error: cannot find protocol declaration for 'SimplePingDelegate'/Users/jlochner/Documents/SignalLogger/NetPing.m:614: error: expected specifier-qualifier-list before 'SimplePing'/Users/jlochner/Documents/SignalLogger/NetPing.m:623: error: expected specifier-qualifier-list before 'SimplePing'/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main dealloc]':/Users/jlochner/Documents/SignalLogger/NetPing.m:631: error: 'struct Main' has no member named '_pinger'/Users/jlochner/Documents/SignalLogger/NetPing.m:632: error: 'struct Main' has no member named '_pinger'/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:/Users/jlochner/Documents/SignalLogger/NetPing.m:638: error: no declaration of property 'pinger' found in the interface/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main _shortErrorFromError:]':/Users/jlochner/Documents/SignalLogger/NetPing.m:661: warning: implicit declaration of function 'gai_strerror'/Users/jlochner/Documents/SignalLogger/NetPing.m:661: warning: assignment makes pointer from integer without a cast/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main runWithHostName:]':/Users/jlochner/Documents/SignalLogger/NetPing.m:689: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m:689: warning: 'NetPing' may not respond to '+snetPingWithHostName:'/Users/jlochner/Documents/SignalLogger/NetPing.m:689: warning: (Messages without a matching method signature/Users/jlochner/Documents/SignalLogger/NetPing.m:689: warning: will be assumed to return 'id' and accept/Users/jlochner/Documents/SignalLogger/NetPing.m:689: warning: '...' as arguments.)/Users/jlochner/Documents/SignalLogger/NetPing.m:691: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m:692: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m:696: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main sendPing]':/Users/jlochner/Documents/SignalLogger/NetPing.m:703: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m:704: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:/Users/jlochner/Documents/SignalLogger/NetPing.m:707: error: expected ')' before 'SimplePing'/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didStartWithAddress:]':/Users/jlochner/Documents/SignalLogger/NetPing.m:712: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:/Users/jlochner/Documents/SignalLogger/NetPing.m:727: error: expected ')' before 'SimplePing'/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didFailWithError:]':/Users/jlochner/Documents/SignalLogger/NetPing.m:732: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m:742: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:/Users/jlochner/Documents/SignalLogger/NetPing.m:745: error: expected ')' before 'SimplePing'/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didSendPacket:]':/Users/jlochner/Documents/SignalLogger/NetPing.m:749: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:/Users/jlochner/Documents/SignalLogger/NetPing.m:754: error: expected ')' before 'SimplePing'/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didFailToSendPacket:error:]':/Users/jlochner/Documents/SignalLogger/NetPing.m:758: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:/Users/jlochner/Documents/SignalLogger/NetPing.m:764: error: expected ')' before 'SimplePing'/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didReceivePingResponsePacket:]':/Users/jlochner/Documents/SignalLogger/NetPing.m:768: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m:770: error: 'SimplePing' undeclared (first use in this function)/Users/jlochner/Documents/SignalLogger/NetPing.m: At top level:/Users/jlochner/Documents/SignalLogger/NetPing.m:773: error: expected ')' before 'SimplePing'/Users/jlochner/Documents/SignalLogger/NetPing.m: In function '-[Main simplePing:didReceiveUnexpectedPacket:]':/Users/jlochner/Documents/SignalLogger/NetPing.m:779: error: request for member 'pinger' in something not a structure or union/Users/jlochner/Documents/SignalLogger/NetPing.m:782: error: 'SimplePing' undeclared (first use in this function){standard input}:2827:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" minus "L00000000027$pb"{standard input}:2827:symbol: "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2795:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000026$pb"{standard input}:2795:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2770:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000025$pb"{standard input}:2770:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2745:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr" minus "L00000000024$pb"{standard input}:2745:symbol: "L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2722:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr" minus "L00000000023$pb"{standard input}:2722:symbol: "L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2699:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr" minus "L00000000022$pb"{standard input}:2699:symbol: "L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2674:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr" minus "L00000000021$pb"{standard input}:2674:symbol: "L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2649:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr" minus "L00000000020$pb"{standard input}:2649:symbol: "L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2621:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_41" minus "L00000000019$pb"{standard input}:2621:symbol: "L_OBJC_SELECTOR_REFERENCES_41" can't be undefined in a subtraction expression{standard input}:2612:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_47" minus "L00000000019$pb"{standard input}:2612:symbol: "L_OBJC_SELECTOR_REFERENCES_47" can't be undefined in a subtraction expression{standard input}:2605:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_48" minus "L00000000019$pb"{standard input}:2605:symbol: "L_OBJC_SELECTOR_REFERENCES_48" can't be undefined in a subtraction expression{standard input}:2598:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_43" minus "L00000000019$pb"{standard input}:2598:symbol: "L_OBJC_SELECTOR_REFERENCES_43" can't be undefined in a subtraction expression{standard input}:2569:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000018$pb"{standard input}:2569:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2560:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000018$pb"{standard input}:2560:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2551:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000018$pb"{standard input}:2551:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2542:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000018$pb"{standard input}:2542:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2512:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"{standard input}:2512:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2503:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"{standard input}:2503:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2492:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"{standard input}:2492:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2486:non-relocatable subtraction expression, "L_kCFRunLoopDefaultMode$non_lazy_ptr" minus "L00000000017$pb"{standard input}:2486:symbol: "L_kCFRunLoopDefaultMode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2476:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"{standard input}:2476:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2467:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000017$pb"{standard input}:2467:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2430:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_45" minus "L00000000016$pb"{standard input}:2430:symbol: "L_OBJC_SELECTOR_REFERENCES_45" can't be undefined in a subtraction expression{standard input}:2414:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"{standard input}:2414:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2403:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"{standard input}:2403:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2397:non-relocatable subtraction expression, "L_kCFRunLoopDefaultMode$non_lazy_ptr" minus "L00000000016$pb"{standard input}:2397:symbol: "L_kCFRunLoopDefaultMode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2385:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"{standard input}:2385:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2364:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"{standard input}:2364:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2353:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_47" minus "L00000000016$pb"{standard input}:2353:symbol: "L_OBJC_SELECTOR_REFERENCES_47" can't be undefined in a subtraction expression{standard input}:2347:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"{standard input}:2347:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2326:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000016$pb"{standard input}:2326:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2309:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_44" minus "L00000000016$pb"{standard input}:2309:symbol: "L_OBJC_SELECTOR_REFERENCES_44" can't be undefined in a subtraction expression{standard input}:2300:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000016$pb"{standard input}:2300:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2260:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_46" minus "L00000000015$pb"{standard input}:2260:symbol: "L_OBJC_SELECTOR_REFERENCES_46" can't be undefined in a subtraction expression{standard input}:2245:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_45" minus "L00000000015$pb"{standard input}:2245:symbol: "L_OBJC_SELECTOR_REFERENCES_45" can't be undefined in a subtraction expression{standard input}:2200:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000014$pb"{standard input}:2200:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:2191:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000014$pb"{standard input}:2191:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:2187:non-relocatable subtraction expression, "L_kCFErrorDomainCFNetwork$non_lazy_ptr" minus "L00000000014$pb"{standard input}:2187:symbol: "L_kCFErrorDomainCFNetwork$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2184:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000014$pb"{standard input}:2184:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:2175:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_44" minus "L00000000014$pb"{standard input}:2175:symbol: "L_OBJC_SELECTOR_REFERENCES_44" can't be undefined in a subtraction expression{standard input}:2164:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_43" minus "L00000000014$pb"{standard input}:2164:symbol: "L_OBJC_SELECTOR_REFERENCES_43" can't be undefined in a subtraction expression{standard input}:2142:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_42" minus "L00000000014$pb"{standard input}:2142:symbol: "L_OBJC_SELECTOR_REFERENCES_42" can't be undefined in a subtraction expression{standard input}:2125:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_41" minus "L00000000014$pb"{standard input}:2125:symbol: "L_OBJC_SELECTOR_REFERENCES_41" can't be undefined in a subtraction expression{standard input}:2112:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000014$pb"{standard input}:2112:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:2104:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000014$pb"{standard input}:2104:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:2066:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_42" minus "L00000000014$pb"{standard input}:2066:symbol: "L_OBJC_SELECTOR_REFERENCES_42" can't be undefined in a subtraction expression{standard input}:2036:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" minus "L00000000014$pb"{standard input}:2036:symbol: "L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1982:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_40" minus "L00000000013$pb"{standard input}:1982:symbol: "L_OBJC_SELECTOR_REFERENCES_40" can't be undefined in a subtraction expression{standard input}:1976:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000013$pb"{standard input}:1976:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:1969:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000013$pb"{standard input}:1969:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1959:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000013$pb"{standard input}:1959:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:1957:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_40" minus "L00000000013$pb"{standard input}:1957:symbol: "L_OBJC_SELECTOR_REFERENCES_40" can't be undefined in a subtraction expression{standard input}:1951:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000013$pb"{standard input}:1951:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1943:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000013$pb"{standard input}:1943:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1927:non-relocatable subtraction expression, "L_kCFRunLoopDefaultMode$non_lazy_ptr" minus "L00000000013$pb"{standard input}:1927:symbol: "L_kCFRunLoopDefaultMode$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1901:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000013$pb"{standard input}:1901:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1875:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000013$pb"{standard input}:1875:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1854:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000013$pb"{standard input}:1854:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1837:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000013$pb"{standard input}:1837:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1819:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000013$pb"{standard input}:1819:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:1809:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000013$pb"{standard input}:1809:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:1806:non-relocatable subtraction expression, "L_NSPOSIXErrorDomain$non_lazy_ptr" minus "L00000000013$pb"{standard input}:1806:symbol: "L_NSPOSIXErrorDomain$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1803:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000013$pb"{standard input}:1803:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:1748:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000013$pb"{standard input}:1748:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:1742:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000013$pb"{standard input}:1742:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:1694:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_39" minus "L00000000012$pb"{standard input}:1694:symbol: "L_OBJC_SELECTOR_REFERENCES_39" can't be undefined in a subtraction expression{standard input}:1627:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000012$pb"{standard input}:1627:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1581:non-relocatable subtraction expression, "L___stack_chk_guard$non_lazy_ptr" minus "L00000000011$pb"{standard input}:1581:symbol: "L___stack_chk_guard$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1569:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000011$pb"{standard input}:1569:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:1559:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000011$pb"{standard input}:1559:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:1556:non-relocatable subtraction expression, "L_NSPOSIXErrorDomain$non_lazy_ptr" minus "L00000000011$pb"{standard input}:1556:symbol: "L_NSPOSIXErrorDomain$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1553:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000011$pb"{standard input}:1553:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:1534:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_38" minus "L00000000011$pb"{standard input}:1534:symbol: "L_OBJC_SELECTOR_REFERENCES_38" can't be undefined in a subtraction expression{standard input}:1527:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"{standard input}:1527:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1517:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000011$pb"{standard input}:1517:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:1515:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_37" minus "L00000000011$pb"{standard input}:1515:symbol: "L_OBJC_SELECTOR_REFERENCES_37" can't be undefined in a subtraction expression{standard input}:1509:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"{standard input}:1509:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1501:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"{standard input}:1501:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1489:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_36" minus "L00000000011$pb"{standard input}:1489:symbol: "L_OBJC_SELECTOR_REFERENCES_36" can't be undefined in a subtraction expression{standard input}:1482:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"{standard input}:1482:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1472:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000011$pb"{standard input}:1472:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:1470:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_35" minus "L00000000011$pb"{standard input}:1470:symbol: "L_OBJC_SELECTOR_REFERENCES_35" can't be undefined in a subtraction expression{standard input}:1464:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"{standard input}:1464:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1456:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000011$pb"{standard input}:1456:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:1445:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_34" minus "L00000000011$pb"{standard input}:1445:symbol: "L_OBJC_SELECTOR_REFERENCES_34" can't be undefined in a subtraction expression{standard input}:1419:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_33" minus "L00000000011$pb"{standard input}:1419:symbol: "L_OBJC_SELECTOR_REFERENCES_33" can't be undefined in a subtraction expression{standard input}:1415:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000011$pb"{standard input}:1415:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression{standard input}:1382:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000011$pb"{standard input}:1382:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1353:non-relocatable subtraction expression, "L___stack_chk_guard$non_lazy_ptr" minus "L00000000011$pb"{standard input}:1353:symbol: "L___stack_chk_guard$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:1304:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000010$pb"{standard input}:1304:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:1289:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000010$pb"{standard input}:1289:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:1253:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000010$pb"{standard input}:1253:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:1235:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000010$pb"{standard input}:1235:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:1223:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000010$pb"{standard input}:1223:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression{standard input}:1216:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_32" minus "L00000000010$pb"{standard input}:1216:symbol: "L_OBJC_SELECTOR_REFERENCES_32" can't be undefined in a subtraction expression{standard input}:1177:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000009$pb"{standard input}:1177:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:1164:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_31" minus "L00000000009$pb"{standard input}:1164:symbol: "L_OBJC_SELECTOR_REFERENCES_31" can't be undefined in a subtraction expression{standard input}:1123:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000008$pb"{standard input}:1123:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:1072:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000008$pb"{standard input}:1072:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:1063:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000008$pb"{standard input}:1063:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:972:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_27" minus "L00000000007$pb"{standard input}:972:symbol: "L_OBJC_SELECTOR_REFERENCES_27" can't be undefined in a subtraction expression{standard input}:963:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000007$pb"{standard input}:963:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:949:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_26" minus "L00000000007$pb"{standard input}:949:symbol: "L_OBJC_SELECTOR_REFERENCES_26" can't be undefined in a subtraction expression{standard input}:942:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"{standard input}:942:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:932:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000007$pb"{standard input}:932:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:930:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_25" minus "L00000000007$pb"{standard input}:930:symbol: "L_OBJC_SELECTOR_REFERENCES_25" can't be undefined in a subtraction expression{standard input}:924:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"{standard input}:924:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:916:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"{standard input}:916:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:904:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000007$pb"{standard input}:904:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:901:non-relocatable subtraction expression, "L_NSPOSIXErrorDomain$non_lazy_ptr" minus "L00000000007$pb"{standard input}:901:symbol: "L_NSPOSIXErrorDomain$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:898:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000007$pb"{standard input}:898:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:879:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_24" minus "L00000000007$pb"{standard input}:879:symbol: "L_OBJC_SELECTOR_REFERENCES_24" can't be undefined in a subtraction expression{standard input}:872:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"{standard input}:872:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:862:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000007$pb"{standard input}:862:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:860:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_23" minus "L00000000007$pb"{standard input}:860:symbol: "L_OBJC_SELECTOR_REFERENCES_23" can't be undefined in a subtraction expression{standard input}:854:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"{standard input}:854:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:846:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000007$pb"{standard input}:846:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:837:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:837:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:805:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000007$pb"{standard input}:805:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:798:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"{standard input}:798:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:791:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:791:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:784:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"{standard input}:784:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:778:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000007$pb"{standard input}:778:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:771:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:771:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:765:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_30" minus "L00000000007$pb"{standard input}:765:symbol: "L_OBJC_SELECTOR_REFERENCES_30" can't be undefined in a subtraction expression{standard input}:750:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" minus "L00000000007$pb"{standard input}:750:symbol: "L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:737:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"{standard input}:737:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:730:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:730:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:716:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"{standard input}:716:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:709:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:709:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:694:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_22" minus "L00000000007$pb"{standard input}:694:symbol: "L_OBJC_SELECTOR_REFERENCES_22" can't be undefined in a subtraction expression{standard input}:687:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:687:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:670:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000007$pb"{standard input}:670:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:657:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_29" minus "L00000000007$pb"{standard input}:657:symbol: "L_OBJC_SELECTOR_REFERENCES_29" can't be undefined in a subtraction expression{standard input}:640:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000007$pb"{standard input}:640:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression{standard input}:616:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000007$pb"{standard input}:616:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression{standard input}:610:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000007$pb"{standard input}:610:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression{standard input}:606:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_6" minus "L00000000007$pb"{standard input}:606:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_6" can't be undefined in a subtraction expression{standard input}:597:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000007$pb"{standard input}:597:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression{standard input}:589:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000007$pb"{standard input}:589:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression{standard input}:565:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_28" minus "L00000000007$pb"{standard input}:565:symbol: "L_OBJC_SELECTOR_REFERENCES_28" can't be undefined in a subtraction expression{standard input}:561:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_5" minus "L00000000007$pb"{standard input}:561:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_5" can't be undefined in a subtraction expression{standard input}:501:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000006$pb"{standard input}:501:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression{standard input}:489:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000006$pb"{standard input}:489:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression{standard input}:485:non-relocatable subtraction expression, "L_kCFErrorDomainCFNetwork$non_lazy_ptr" minus "L00000000006$pb"{standard input}:485:symbol: "L_kCFErrorDomainCFNetwork$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:482:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_4" minus "L00000000006$pb"{standard input}:482:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_4" can't be undefined in a subtraction expression{standard input}:467:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000006$pb"{standard input}:467:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression{standard input}:460:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000006$pb"{standard input}:460:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression{standard input}:456:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000006$pb"{standard input}:456:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression{standard input}:453:non-relocatable subtraction expression, "L_kCFGetAddrInfoFailureKey$non_lazy_ptr" minus "L00000000006$pb"{standard input}:453:symbol: "L_kCFGetAddrInfoFailureKey$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:450:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000006$pb"{standard input}:450:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression{standard input}:444:non-relocatable subtraction expression, "L_kCFStreamErrorDomainNetDB$non_lazy_ptr" minus "L00000000006$pb"{standard input}:444:symbol: "L_kCFStreamErrorDomainNetDB$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:407:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000005$pb"{standard input}:407:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000005$pb"{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:391:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000005$pb"{standard input}:391:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression{standard input}:389:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000005$pb"{standard input}:389:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression{standard input}:383:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000005$pb"{standard input}:383:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:375:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000005$pb"{standard input}:375:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression{standard input}:368:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000005$pb"{standard input}:368:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:361:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000005$pb"{standard input}:361:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:355:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000005$pb"{standard input}:355:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression{standard input}:327:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000004$pb"{standard input}:327:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:318:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000004$pb"{standard input}:318:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:312:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000004$pb"{standard input}:312:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:309:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000004$pb"{standard input}:309:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:282:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000003$pb"{standard input}:282:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression{standard input}:273:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000003$pb"{standard input}:273:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression{standard input}:267:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000003$pb"{standard input}:267:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression{standard input}:264:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000003$pb"{standard input}:264:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression{standard input}:237:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000002$pb"{standard input}:237:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression{standard input}:233:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"{standard input}:233:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:225:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:225:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:219:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000002$pb"{standard input}:219:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:212:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000002$pb"{standard input}:212:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression{standard input}:206:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" minus "L00000000002$pb"{standard input}:206:symbol: "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:199:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000002$pb"{standard input}:199:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression{standard input}:165:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr" minus "L00000000001$pb"{standard input}:165:symbol: "L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:157:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:157:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:151:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" minus "L00000000001$pb"{standard input}:151:symbol: "L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:143:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"{standard input}:143:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression{standard input}:137:non-relocatable subtraction expression, "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" minus "L00000000001$pb"{standard input}:137:symbol: "L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:126:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"{standard input}:126:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression{standard input}:122:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"{standard input}:122:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._hostName$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._hostAddress$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._identifier$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11{standard input}:unknown:Undefined local symbol L_kCFStreamErrorDomainNetDB$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2{standard input}:unknown:Undefined local symbol L_kCFGetAddrInfoFailureKey$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_4{standard input}:unknown:Undefined local symbol L_kCFErrorDomainCFNetwork$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_5{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_28{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_6{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_29{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_22{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._socket$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_30{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_23{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_24{standard input}:unknown:Undefined local symbol L_NSPOSIXErrorDomain$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_25{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_26{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_27{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_31{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_32{standard input}:unknown:Undefined local symbol L___stack_chk_guard$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_33{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_34{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_35{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_36{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_37{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_38{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_39{standard input}:unknown:Undefined local symbol L_kCFRunLoopDefaultMode$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_40{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._host$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_42{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_41{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_43{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_44{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_45{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_46{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_47{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_48{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._nextSequenceNumber$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_NetPing._delegate$non_lazy_ptr43(4@52"'NI_MAXHOST' undeclared (first use in this function)321282490#90#114#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#597#0#597#0#43"'*' undeclared (first use in this function)0(22@46"Implicit declaration of function 'getnameinfo'321282490#410#110#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#602#0#602#0#36"implicit declaration of function '*'0(4@56"'NI_NUMERICHOST' undeclared (first use in this function)321282490#520#118#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#602#0#602#0#43"'*' undeclared (first use in this function)0(22@25"Unused variable 'hostStr'321282490#638#89#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#597#0#597#0#19"unused variable '*'0(23@13"At top level:321282490#727#64#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#0#0#0#0#0"0(4@57"Cannot find protocol declaration for 'SimplePingDelegate'321282490#791#119#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#612#0#612#0#0"0(4@53"Expected specifier-qualifier-list before 'SimplePing'321282490#910#115#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#614#0#614#0#19"expected * before *0(4@53"Expected specifier-qualifier-list before 'SimplePing'321282490#1025#115#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#623#0#623#0#19"expected * before *0(4@43"'struct Main' has no member named '_pinger'321282490#1221#105#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#631#0#631#0#27"'*' has no member named '*'0(4@43"'struct Main' has no member named '_pinger'321282490#1326#105#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#632#0#632#0#27"'*' has no member named '*'0(23@13"At top level:321282490#1431#64#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#0#0#0#0#0"0(4@58"No declaration of property 'pinger' found in the interface321282490#1495#120#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#638#0#638#0#0"0(22@47"Implicit declaration of function 'gai_strerror'321282490#1710#111#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#661#0#661#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast321282490#1821#116#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#661#0#661#0#0"0(4@65"Request for member 'pinger' in something not a structure or union321282490#2027#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#689#0#689#0#0"0(22@53"'NetPing' may not respond to '+snetPingWithHostName:'321282490#2154#117#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#689#0#689#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)321282490#2271#109#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#689#0#689#0#0"0(4@65"Request for member 'pinger' in something not a structure or union321282490#2569#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#691#0#691#0#0"0(4@65"Request for member 'pinger' in something not a structure or union321282490#2696#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#692#0#692#0#0"0(4@65"Request for member 'pinger' in something not a structure or union321282490#2823#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#696#0#696#0#0"0(4@65"Request for member 'pinger' in something not a structure or union321282490#3032#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#703#0#703#0#0"0(4@65"Request for member 'pinger' in something not a structure or union321282490#3159#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#704#0#704#0#0"0(23@13"At top level:321282490#3286#64#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#0#0#0#0#0"0(4@32"Expected ')' before 'SimplePing'321282490#3350#94#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#707#0#707#0#19"expected * before *0(4@65"Request for member 'pinger' in something not a structure or union321282490#3549#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#712#0#712#0#0"0(23@13"At top level:321282490#3676#64#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#0#0#0#0#0"0(4@32"Expected ')' before 'SimplePing'321282490#3740#94#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#727#0#727#0#19"expected * before *0(4@65"Request for member 'pinger' in something not a structure or union321282490#3936#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#732#0#732#0#0"0(4@65"Request for member 'pinger' in something not a structure or union321282490#4063#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#742#0#742#0#0"0(23@13"At top level:321282490#4190#64#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#0#0#0#0#0"0(4@32"Expected ')' before 'SimplePing'321282490#4254#94#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#745#0#745#0#19"expected * before *0(4@65"Request for member 'pinger' in something not a structure or union321282490#4447#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#749#0#749#0#0"0(23@13"At top level:321282490#4574#64#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#0#0#0#0#0"0(4@32"Expected ')' before 'SimplePing'321282490#4638#94#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#754#0#754#0#19"expected * before *0(4@65"Request for member 'pinger' in something not a structure or union321282490#4843#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#758#0#758#0#0"0(23@13"At top level:321282490#4970#64#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#0#0#0#0#0"0(4@32"Expected ')' before 'SimplePing'321282490#5034#94#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#764#0#764#0#19"expected * before *0(4@65"Request for member 'pinger' in something not a structure or union321282490#5242#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#768#0#768#0#0"0(4@52"'SimplePing' undeclared (first use in this function)321282490#5369#114#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#770#0#770#0#43"'*' undeclared (first use in this function)0(23@13"At top level:321282490#5483#64#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#0#0#0#0#0"0(4@32"Expected ')' before 'SimplePing'321282490#5547#94#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#773#0#773#0#19"expected * before *0(4@65"Request for member 'pinger' in something not a structure or union321282490#5753#127#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#779#0#779#0#0"0(4@52"'SimplePing' undeclared (first use in this function)321282490#5880#114#0(6@48"/Users/jlochner/Documents/SignalLogger/NetPing.m320800292#782#0#782#0#43"'*' undeclared (first use in this function)0(0#0#48"/Users/jlochner/Documents/SignalLogger/NetPing.m7955443072772568064#2020"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-aofmvvhycbbkmmcvyojlmzfayyyx/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/NetPing.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/NetPing.o1#
+
+CCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/Pinger.o /Users/jlochner/Documents/SignalLogger/Pinger.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320789457.146983
+e320789457.312749
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/Pinger.o
+x/Users/jlochner/Documents/SignalLogger/Pinger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/jlochner/Documents/SignalLogger/Pinger.m320789457#320789457#0(0"0(0#0#47"/Users/jlochner/Documents/SignalLogger/Pinger.m8671091168#2018"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-aofmvvhycbbkmmcvyojlmzfayyyx/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Pinger.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/Pinger.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SLlocationController.o /Users/jlochner/Documents/SignalLogger/SLlocationController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321282612.971973
+e321282613.060442
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SLlocationController.o
+x/Users/jlochner/Documents/SignalLogger/SLlocationController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jlochner/Documents/SignalLogger/SLlocationController.m321282612#321282613#0(0"0(0#0#61"/Users/jlochner/Documents/SignalLogger/SLlocationController.m8608049920#2087"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/SLlocationController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SLlocationController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SignalLoggerAppDelegate.o /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321282911.629822
+e321282911.721262
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SignalLoggerAppDelegate.o
+x/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m321282911#321282911#0(0"0(0#0#72"/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m8602880352#2101"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SignalLoggerAppDelegate.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SimplePing.o /Users/jlochner/Documents/SignalLogger/SimplePing.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320789598.712575
+e320789598.943504
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SimplePing.o
+x/Users/jlochner/Documents/SignalLogger/SimplePing.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/jlochner/Documents/SignalLogger/SimplePing.m320789598#320789598#0(0"0(0#0#51"/Users/jlochner/Documents/SignalLogger/SimplePing.m8709887616#2026"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-aofmvvhycbbkmmcvyojlmzfayyyx/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/SimplePing.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SimplePing.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/main.o /Users/jlochner/Documents/SignalLogger/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321282612.785078
+e321282612.850293
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/main.o
+x/Users/jlochner/Documents/SignalLogger/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jlochner/Documents/SignalLogger/main.m321282612#321282612#0(0"0(0#0#45"/Users/jlochner/Documents/SignalLogger/main.m8608040704#2055"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/main.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jlochner/Documents/SignalLogger/FlipsideView.xib
+s320708021.324887
+e320708023.982968
+r1
+xCompileXIB
+x/Users/jlochner/Documents/SignalLogger/FlipsideView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@27"CompileXIB FlipsideView.xib320708021#320708023#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/jlochner/Documents/SignalLogger/FlipsideView.xib8612036576#579"    cd /Users/jlochner/Documents/SignalLogger    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/FlipsideView.nib /Users/jlochner/Documents/SignalLogger/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/jlochner/Documents/SignalLogger/MainView.xib
+s320720639.244022
+e320720639.715628
+r1
+xCompileXIB
+x/Users/jlochner/Documents/SignalLogger/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib320720639#320720639#0(0"0(0#0#51"/Users/jlochner/Documents/SignalLogger/MainView.xib8635508064#571"    cd /Users/jlochner/Documents/SignalLogger    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/MainView.nib /Users/jlochner/Documents/SignalLogger/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/jlochner/Documents/SignalLogger/MainWindow.xib
+s320708023.983315
+e320708024.479237
+r1
+xCompileXIB
+x/Users/jlochner/Documents/SignalLogger/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320708023#320708024#0(0"0(0#0#53"/Users/jlochner/Documents/SignalLogger/MainWindow.xib8611567936#575"    cd /Users/jlochner/Documents/SignalLogger    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/MainWindow.nib /Users/jlochner/Documents/SignalLogger/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app.dSYM /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger
+s321283095.832317
+e321283095.850339
+r1
+xGenerateDSYMFile
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app.dSYM
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/SignalLogger.app.dSYM build/Debug-iphonesimulator/SignalLogger.app/SignalLogger321283095#321283095#0(0"0(0#0#96"/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger8616780352#398"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger -o /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app.dSYM0#
+
+CLd /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger normal i386
+s321283095.801484
+e321283095.832219
+r1
+xLd
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger
+xnormal
+xi386
+lSLF07#2@101"Link /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger321283095#321283095#0(0"0(0#0#0"8616987680#1057"    cd /Users/jlochner/Documents/SignalLogger    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -F/Users/jlochner/Documents/SignalLogger -filelist /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/Objects-normal/i386/SignalLogger.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework CoreLocation -framework MessageUI -framework CoreTelephony -o /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/SignalLogger0#
+
+CProcessInfoPlistFile /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/Info.plist SignalLogger-Info.plist
+s321283540.354232
+e321283540.394750
+r1
+xProcessInfoPlistFile
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/Info.plist
+xSignalLogger-Info.plist
+lSLF07#2@31"Process SignalLogger-Info.plist321283540#321283540#0(0"0(0#0#62"/Users/jlochner/Documents/SignalLogger/SignalLogger-Info.plist8622505696#494"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SignalLogger-Info.plist -genpkginfo /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app/Info.plist0#
+
+CProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-aofmvvhycbbkmmcvyojlmzfayyyx/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320721374.011530
+e320721375.669595
+r1
+xProcessPCH
+x/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-aofmvvhycbbkmmcvyojlmzfayyyx/SignalLogger_Prefix.pch.gch
+xSignalLogger_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SignalLogger_Prefix.pch320721374#320721375#0(0"0(0#0#62"/Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch8634325184#1901"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -c /Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch -o /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-aofmvvhycbbkmmcvyojlmzfayyyx/SignalLogger_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-boaqzhmzlskusbarrhceygzzxaol/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320708024.504121
+e320708025.929978
+r1
+xProcessPCH
+x/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-boaqzhmzlskusbarrhceygzzxaol/SignalLogger_Prefix.pch.gch
+xSignalLogger_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SignalLogger_Prefix.pch320708024#320708025#0(0"0(0#0#62"/Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch8612219232#1901"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -c /Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch -o /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-boaqzhmzlskusbarrhceygzzxaol/SignalLogger_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fvrykdnmsuwhthagdqtoagoadpko/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321282611.875247
+e321282612.784974
+r1
+xProcessPCH
+x/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch.gch
+xSignalLogger_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SignalLogger_Prefix.pch321282611#321282612#0(0"0(0#0#62"/Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch8593533280#1942"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources/i386 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphonesimulator/SignalLogger.build/DerivedSources -c /Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch -o /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fxlpxyqbohqvqmdyjdhapxvstdlt/SignalLogger_Prefix.pch.gch0#
+
+CTouch /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app
+s321283540.395969
+e321283540.415062
+r1
+xTouch
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app
+lSLF07#2@89"Touch /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app321283540#321283540#0(0"0(0#0#0"8619744192#283"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jlochner/Documents/SignalLogger/build/Debug-iphonesimulator/SignalLogger.app0#
+

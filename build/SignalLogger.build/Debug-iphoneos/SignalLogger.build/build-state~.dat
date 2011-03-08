@@ -1,0 +1,628 @@
+TSignalLogger
+v7
+r0
+t321283599.693021
+cCheck dependencies
+cCpResource build/Debug-iphoneos/SignalLogger.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+cProcessInfoPlistFile /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/Info.plist SignalLogger-Info.plist
+cCompileXIB /Users/jlochner/Documents/SignalLogger/FlipsideView.xib
+cCompileXIB /Users/jlochner/Documents/SignalLogger/MainView.xib
+cCompileXIB /Users/jlochner/Documents/SignalLogger/MainWindow.xib
+cProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/main.o /Users/jlochner/Documents/SignalLogger/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLoggerAppDelegate.o /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/MainViewController.o /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/FlipsideViewController.o /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SLlocationController.o /Users/jlochner/Documents/SignalLogger/SLlocationController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/main.o /Users/jlochner/Documents/SignalLogger/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger normal armv6
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLoggerAppDelegate.o /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/MainViewController.o /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/FlipsideViewController.o /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SLlocationController.o /Users/jlochner/Documents/SignalLogger/SLlocationController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger normal armv7
+cCreateUniversalBinary /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger normal "armv6 armv7"
+cGenerateDSYMFile /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app.dSYM /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger
+cProcessProductPackaging "/Users/jlochner/Library/MobileDevice/Provisioning Profiles/FFBFDBB2-0634-4302-86A0-EDF1AFA2E67D.mobileprovision" /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/embedded.mobileprovision
+cTouch /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger.xcent
+cCodeSign /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004CA64FD70000000000000110
+t1285967831
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+c000000004C578FA900000000000001A7
+t1280806825
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004C5A524A00000000002CE430
+t1280987722
+s2942000
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004C5A517D00000000000004CF
+t1280987517
+s1231
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004C5A4FA40000000000000AB3
+t1280987044
+s2739
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004C6C2FE600000000000C79C0
+t1282158566
+s817600
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004C6C2FDF00000000000001D0
+t1282158559
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c000000004C623DE90000000000114DF0
+t1281506793
+s1134064
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers/CTCall.h
+c000000004C623DD60000000000000539
+t1281506774
+s1337
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MFMailComposeViewController.h
+c000000004C5E20FF00000000000028E4
+t1281237247
+s10468
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MessageUI.framework/Headers/MessageUI.h
+c000000004C5E20FF00000000000000CD
+t1281237247
+s205
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004C5E210F00000000000FF4C0
+t1281237263
+s1045696
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/Availability.h
+c000000004C57A57A0000000000001A5C
+t1280812410
+s6748
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/usr/include/dlfcn.h
+c000000004C5A41B40000000000000B1C
+t1280983476
+s2844
+
+N/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.h
+c000000004D6D643A0000000000000234
+t1299014714
+s564
+i<UIKit/UIKit.h>
+
+N/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m
+c000000004D6D643B0000000000000459
+t1299014715
+s1113
+i"FlipsideViewController.h"
+
+N/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.h
+c000000004D762BAA0000000000000322
+t1299590058
+s802
+i"FlipsideViewController.h"
+i"SLlocationController.h"
+i<MessageUI/MessageUI.h>
+i<MessageUI/MFMailComposeViewController.h>
+i<CoreTelephony/CTCall.h>
+
+N/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m
+c000000004D762C970000000000001A79
+t1299590295
+s6777
+i"MainViewController.h"
+i"CoreTelephony.h"
+i<dlfcn.h>
+
+N/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.h
+c000000004D6D643B00000000000001EB
+t1299014715
+s491
+i<UIKit/UIKit.h>
+
+N/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m
+c000000004D6D643B0000000000000AAD
+t1299014715
+s2733
+i"SignalLoggerAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/jlochner/Documents/SignalLogger/CoreTelephony.h
+c000000004D7515CB0000000000000590
+t1299518923
+s1424
+i<CoreFoundation/CoreFoundation.h>
+
+N/Users/jlochner/Documents/SignalLogger/FlipsideView.xib
+c000000004D6D643B0000000000004C63
+t1299014715
+s19555
+
+N/Users/jlochner/Documents/SignalLogger/MainView.xib
+c000000004D6D977800000000000066F8
+t1299027832
+s26360
+
+N/Users/jlochner/Documents/SignalLogger/MainWindow.xib
+c000000004D6D643B00000000000050AC
+t1299014715
+s20652
+
+N/Users/jlochner/Documents/SignalLogger/SLlocationController.h
+c000000004D6D99070000000000000272
+t1299028231
+s626
+i<Foundation/Foundation.h>
+
+N/Users/jlochner/Documents/SignalLogger/SLlocationController.m
+c000000004D6E2C700000000000000391
+t1299065968
+s913
+i"SLlocationController.h"
+
+N/Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch
+c000000004D6D98160000000000000192
+t1299027990
+s402
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<CFNetwork/CFNetwork.h>
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app
+t1299590799
+s408
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app.dSYM
+t1299590794
+s102
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/FlipsideView.nib
+t1299590791
+s2077
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/Info.plist
+t1299590788
+s743
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/MainView.nib
+t1299590791
+s4156
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/MainWindow.nib
+t1299590791
+s1714
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/PkgInfo
+t1299590788
+s8
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/ResourceRules.plist
+t1299590788
+s485
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger
+t1299590794
+s64572
+
+N/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/embedded.mobileprovision
+t1299590794
+s7186
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/FlipsideViewController.o
+t1299590793
+s37600
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/MainViewController.o
+t1299590793
+s62460
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SLlocationController.o
+t1299590793
+s13852
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger
+t1299590794
+s31808
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger.LinkFileList
+c000000004D762E8400000000000002B9
+t1299590788
+s697
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLoggerAppDelegate.o
+t1299590793
+s48992
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/main.o
+t1299590793
+s6448
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/FlipsideViewController.o
+t1299590793
+s37544
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/MainViewController.o
+t1299590793
+s61984
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SLlocationController.o
+t1299590793
+s13768
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger
+t1299590794
+s27708
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger.LinkFileList
+c000000004D762E8400000000000002B9
+t1299590788
+s697
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLoggerAppDelegate.o
+t1299590793
+s48908
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/main.o
+t1299590793
+s6432
+
+N/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger.xcent
+t1299590794
+s424
+
+N/Users/jlochner/Documents/SignalLogger/main.m
+c000000004D6D643B000000000000016C
+t1299014715
+s364
+i<UIKit/UIKit.h>
+
+N/Users/jlochner/Library/MobileDevice/Provisioning Profiles/FFBFDBB2-0634-4302-86A0-EDF1AFA2E67D.mobileprovision
+c000000004D762E100000000000001C12
+t1299590672
+s7186
+
+N/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch.gch
+t1299590792
+s10360592
+
+N/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch.gch
+t1299590792
+s9897744
+
+NSignalLogger-Info.plist
+c000000004D762E520000000000000375
+t1299590738
+s885
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321283588#321283588#0(0"0(0#1#0"8621510944#0"0#
+
+CCodeSign /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app
+s321283594.435687
+e321283599.692934
+r1
+xCodeSign
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/SignalLogger.app321283594#321283599#0(0"0(0#0#76"/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app8618846944#672"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Jon Lochner (8M78J2JWJ7)" --resource-rules=/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/ResourceRules.plist --entitlements /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger.xcent /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/FlipsideViewController.o /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321283593.132286
+e321283593.205921
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/FlipsideViewController.o
+x/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m321283593#321283593#0(0"0(0#0#71"/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m8616206976#1909"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv6 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/FlipsideViewController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/MainViewController.o /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321283593.106815
+e321283593.336397
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/MainViewController.o
+x/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function '-[MainViewController timerTriggered:]':
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: implicit declaration of function 'getSignalStrength'
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: assignment makes pointer from integer without a cast
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function 'register_notification':
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:184: warning: passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type
+lSLF07#2@75"Compile /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283593#321283593#0(676"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function '-[MainViewController timerTriggered:]':/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: implicit declaration of function 'getSignalStrength'/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: assignment makes pointer from integer without a cast/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function 'register_notification':/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:184: warning: passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type3(22@52"Implicit declaration of function 'getSignalStrength'321283593#122#134#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#76#0#76#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast321283593#256#134#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#76#0#76#0#0"0(22@97"Passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type321283593#496#180#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#184#0#184#0#56"passing argument * of '*' from incompatible pointer type0(0#0#67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m8617044960#1901"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv6 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/MainViewController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SLlocationController.o /Users/jlochner/Documents/SignalLogger/SLlocationController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321283593.206034
+e321283593.291902
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SLlocationController.o
+x/Users/jlochner/Documents/SignalLogger/SLlocationController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jlochner/Documents/SignalLogger/SLlocationController.m321283593#321283593#0(0"0(0#0#61"/Users/jlochner/Documents/SignalLogger/SLlocationController.m8610019712#1897"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv6 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/SLlocationController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SLlocationController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLoggerAppDelegate.o /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321283592.968832
+e321283593.132180
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLoggerAppDelegate.o
+x/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m321283592#321283593#0(0"0(0#0#72"/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m8617173984#1911"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv6 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLoggerAppDelegate.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/main.o /Users/jlochner/Documents/SignalLogger/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321283592.967821
+e321283593.106712
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/main.o
+x/Users/jlochner/Documents/SignalLogger/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jlochner/Documents/SignalLogger/main.m321283592#321283593#0(0"0(0#0#45"/Users/jlochner/Documents/SignalLogger/main.m8619448864#1865"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv6 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/main.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/FlipsideViewController.o /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321283593.632005
+e321283593.717716
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/FlipsideViewController.o
+x/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m321283593#321283593#0(0"0(0#0#71"/Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m8615724544#1909"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv7 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/FlipsideViewController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/FlipsideViewController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/MainViewController.o /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321283593.519961
+e321283593.631909
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/MainViewController.o
+x/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function '-[MainViewController timerTriggered:]':
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: implicit declaration of function 'getSignalStrength'
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: assignment makes pointer from integer without a cast
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function 'register_notification':
+o/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:184: warning: passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type
+lSLF07#2@75"Compile /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283593#321283593#0(676"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function '-[MainViewController timerTriggered:]':/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: implicit declaration of function 'getSignalStrength'/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:76: warning: assignment makes pointer from integer without a cast/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m: In function 'register_notification':/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m:184: warning: passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type3(22@52"Implicit declaration of function 'getSignalStrength'321283593#122#134#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#76#0#76#0#36"implicit declaration of function '*'0(22@52"Assignment makes pointer from integer without a cast321283593#256#134#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#76#0#76#0#0"0(22@97"Passing argument 3 of '_CTServerConnectionRegisterForNotification' from incompatible pointer type321283593#496#180#0(6@67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m321283095#184#0#184#0#56"passing argument * of '*' from incompatible pointer type0(0#0#67"/Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m8618694848#1901"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv7 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/MainViewController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/MainViewController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SLlocationController.o /Users/jlochner/Documents/SignalLogger/SLlocationController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321283593.717824
+e321283593.903371
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SLlocationController.o
+x/Users/jlochner/Documents/SignalLogger/SLlocationController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jlochner/Documents/SignalLogger/SLlocationController.m321283593#321283593#0(0"0(0#0#61"/Users/jlochner/Documents/SignalLogger/SLlocationController.m8619189760#1897"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv7 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/SLlocationController.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SLlocationController.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLoggerAppDelegate.o /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321283593.399898
+e321283593.519843
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLoggerAppDelegate.o
+x/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m321283593#321283593#0(0"0(0#0#72"/Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m8618321600#1911"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv7 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/Classes/SignalLoggerAppDelegate.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLoggerAppDelegate.o0#
+
+CCompileC build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/main.o /Users/jlochner/Documents/SignalLogger/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321283593.292006
+e321283593.399797
+r1
+xCompileC
+xbuild/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/main.o
+x/Users/jlochner/Documents/SignalLogger/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/jlochner/Documents/SignalLogger/main.m321283593#321283593#0(0"0(0#0#45"/Users/jlochner/Documents/SignalLogger/main.m8608300160#1865"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv7 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -include /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch -c /Users/jlochner/Documents/SignalLogger/main.m -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/jlochner/Documents/SignalLogger/FlipsideView.xib
+s321283588.911328
+e321283591.209032
+r1
+xCompileXIB
+x/Users/jlochner/Documents/SignalLogger/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib321283588#321283591#0(0"0(0#0#55"/Users/jlochner/Documents/SignalLogger/FlipsideView.xib8621888704#551"    cd /Users/jlochner/Documents/SignalLogger    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/FlipsideView.nib /Users/jlochner/Documents/SignalLogger/FlipsideView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/jlochner/Documents/SignalLogger/MainView.xib
+s321283588.912059
+e321283591.214733
+r1
+xCompileXIB
+x/Users/jlochner/Documents/SignalLogger/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib321283588#321283591#0(0"0(0#0#51"/Users/jlochner/Documents/SignalLogger/MainView.xib8621692480#543"    cd /Users/jlochner/Documents/SignalLogger    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/MainView.nib /Users/jlochner/Documents/SignalLogger/MainView.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCompileXIB /Users/jlochner/Documents/SignalLogger/MainWindow.xib
+s321283591.209206
+e321283591.597244
+r1
+xCompileXIB
+x/Users/jlochner/Documents/SignalLogger/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321283591#321283591#0(0"0(0#0#53"/Users/jlochner/Documents/SignalLogger/MainWindow.xib8615647936#547"    cd /Users/jlochner/Documents/SignalLogger    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/MainWindow.nib /Users/jlochner/Documents/SignalLogger/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk0#
+
+CCpResource build/Debug-iphoneos/SignalLogger.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+s321283588.841709
+e321283588.911233
+r1
+xCpResource
+xbuild/Debug-iphoneos/SignalLogger.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist321283588#321283588#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist8622652768#485"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app0#
+
+CCreateUniversalBinary /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger normal "armv6 armv7"
+s321283594.295677
+e321283594.346248
+r1
+xCreateUniversalBinary
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/SignalLogger.app/SignalLogger normal "armv6 armv7"321283594#321283594#0(0"0(0#0#50"/Users/jlochner/Documents/SignalLogger/armv6 armv78617810144#558"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger -output /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger0#
+
+CGenerateDSYMFile /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app.dSYM /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger
+s321283594.346358
+e321283594.406265
+r1
+xGenerateDSYMFile
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app.dSYM
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/SignalLogger.app.dSYM build/Debug-iphoneos/SignalLogger.app/SignalLogger321283594#321283594#0(0"0(0#0#89"/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger8615409952#377"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/SignalLogger -o /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app.dSYM0#
+
+CLd /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger normal armv6
+s321283593.336524
+e321283594.240241
+r1
+xLd
+x/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger
+xnormal
+xarmv6
+lSLF07#2@136"Link /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger321283593#321283594#0(0"0(0#0#0"8621831648#1021"    cd /Users/jlochner/Documents/SignalLogger    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -filelist /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework CoreLocation -framework MessageUI -framework CoreTelephony -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv6/SignalLogger0#
+
+CLd /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger normal armv7
+s321283593.903465
+e321283594.295572
+r1
+xLd
+x/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger
+xnormal
+xarmv7
+lSLF07#2@136"Link /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger321283593#321283594#0(0"0(0#0#0"8622039872#1021"    cd /Users/jlochner/Documents/SignalLogger    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -L/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -filelist /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger.LinkFileList -dead_strip -miphoneos-version-min=4.1 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework CoreLocation -framework MessageUI -framework CoreTelephony -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/Objects-normal/armv7/SignalLogger0#
+
+CProcessInfoPlistFile /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/Info.plist SignalLogger-Info.plist
+s321283588.843157
+e321283588.871131
+r1
+xProcessInfoPlistFile
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/Info.plist
+xSignalLogger-Info.plist
+lSLF07#2@31"Process SignalLogger-Info.plist321283588#321283588#0(0"0(0#0#62"/Users/jlochner/Documents/SignalLogger/SignalLogger-Info.plist8622375104#582"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SignalLogger-Info.plist -genpkginfo /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/ResourceRules.plist -o /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/Info.plist0#
+
+CProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s321283591.598454
+e321283592.967718
+r1
+xProcessPCH
+x/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch.gch
+xSignalLogger_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SignalLogger_Prefix.pch321283591#321283592#0(0"0(0#0#62"/Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch8620199296#1758"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv7 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -c /Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch -o /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-fduiznxopckucgfnjkynichcirfz/SignalLogger_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch.gch SignalLogger_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s321283591.597367
+e321283592.888946
+r1
+xProcessPCH
+x/var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch.gch
+xSignalLogger_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile SignalLogger_Prefix.pch321283591#321283592#0(0"0(0#0#62"/Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch8622361952#1758"    cd /Users/jlochner/Documents/SignalLogger    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.1 -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-generated-files.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-own-target-headers.hmap -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-all-target-headers.hmap -iquote /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger-project-headers.hmap -F/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos -F/Users/jlochner/Documents/SignalLogger -I/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/include -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources/armv6 -I/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/DerivedSources -c /Users/jlochner/Documents/SignalLogger/SignalLogger_Prefix.pch -o /var/folders/u7/u7Xb4mFlGNmC6H9ACjoPm++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SignalLogger_Prefix-foiwfmdzdnlmznbkykrajcohnpuh/SignalLogger_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/jlochner/Library/MobileDevice/Provisioning Profiles/FFBFDBB2-0634-4302-86A0-EDF1AFA2E67D.mobileprovision" /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/embedded.mobileprovision
+s321283594.406470
+e321283594.407772
+r1
+xProcessProductPackaging
+x/Users/jlochner/Library/MobileDevice/Provisioning Profiles/FFBFDBB2-0634-4302-86A0-EDF1AFA2E67D.mobileprovision
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/jlochner/Library/MobileDevice/Provisioning Profiles/FFBFDBB2-0634-4302-86A0-EDF1AFA2E67D.mobileprovision" build/Debug-iphoneos/SignalLogger.app/embedded.mobileprovision321283594#321283594#0(0"0(0#0#101"/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/embedded.mobileprovision8618716064#431"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/jlochner/Library/MobileDevice/Provisioning Profiles/FFBFDBB2-0634-4302-86A0-EDF1AFA2E67D.mobileprovision" -o /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger.xcent
+s321283594.411900
+e321283594.435616
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist
+x/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger.xcent
+lSLF07#2@190"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger.xcent321283594#321283594#0(0"0(0#0#116"/Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger.xcent8619367968#447"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/jlochner/Documents/SignalLogger/build/SignalLogger.build/Debug-iphoneos/SignalLogger.build/SignalLogger.xcent0#
+
+CTouch /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app
+s321283594.407833
+e321283594.411816
+r1
+xTouch
+x/Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app
+lSLF07#2@82"Touch /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app321283594#321283594#0(0"0(0#0#0"8617803712#269"    cd /Users/jlochner/Documents/SignalLogger    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jlochner/Documents/SignalLogger/build/Debug-iphoneos/SignalLogger.app0#
+

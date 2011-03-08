@@ -1,0 +1,2 @@
+/Users/jlochner/Documents/SignalLogger/SimplePing.m:54:20: error: NetPing.h: No such file or directory
+/Users/jlochner/Documents/SignalLogger/SimplePing.m:107: error: cannot find interface declaration for 'NetPing'
