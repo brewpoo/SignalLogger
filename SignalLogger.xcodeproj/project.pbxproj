@@ -22,6 +22,7 @@
 		B21AE25D131DD0280087FFD7 /* SLlocationController.m in Sources */ = {isa = PBXBuildFile; fileRef = B21AE25C131DD0280087FFD7 /* SLlocationController.m */; };
 		B21AE2D7131DE8D70087FFD7 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B21AE2D6131DE8D70087FFD7 /* MessageUI.framework */; };
 		B21AE312131E5FD00087FFD7 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B21AE311131E5FD00087FFD7 /* CoreTelephony.framework */; };
+		FAF83E4C1C398E9B00316F91 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FAF83E4B1C398E9B00316F91 /* LaunchScreen.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		B21AE2D6131DE8D70087FFD7 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		B21AE311131E5FD00087FFD7 /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		B2F21B4C132661FA00D7F06F /* CoreTelephony.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreTelephony.h; sourceTree = "<group>"; };
+		FAF83E4B1C398E9B00316F91 /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				280E754B0DD40C5E005A515E /* MainView.xib */,
 				280E754C0DD40C5E005A515E /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* SignalLogger-Info.plist */,
+				FAF83E4B1C398E9B00316F91 /* LaunchScreen.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -188,6 +191,17 @@
 /* Begin PBXProject section */
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				TargetAttributes = {
+					1D6058900D05DD3D006BFB54 = {
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SignalLogger" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -213,6 +227,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAF83E4C1C398E9B00316F91 /* LaunchScreen.xib in Resources */,
 				280E754D0DD40C5E005A515E /* FlipsideView.xib in Resources */,
 				280E754E0DD40C5E005A515E /* MainView.xib in Resources */,
 				280E754F0DD40C5E005A515E /* MainWindow.xib in Resources */,
@@ -251,6 +266,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = SignalLogger_Prefix.pch;
 				INFOPLIST_FILE = "SignalLogger-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = SignalLogger;
 			};
 			name = Debug;
@@ -267,6 +283,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = SignalLogger_Prefix.pch;
 				INFOPLIST_FILE = "SignalLogger-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_NAME = SignalLogger;
 				VALIDATE_PRODUCT = YES;
 			};

@@ -199,6 +199,25 @@ void printInfo() {
 
 
 int getSignalStrength() {
+    
+    UIApplication *app = [UIApplication sharedApplication];
+    NSArray *subviews = [[[app valueForKey:@"statusBar"]     valueForKey:@"foregroundView"] subviews];
+    NSString *dataNetworkItemView = nil;
+    for (id subview in subviews) {
+        if([subview isKindOfClass:[NSClassFromString(@"UIStatusBarSignalStrengthItemView") class]])
+        {
+            dataNetworkItemView = subview;
+            break;
+        }
+    }
+    if (dataNetworkItemView){
+        int signalStrength = [[dataNetworkItemView valueForKey:@"signalStrengthRaw"] intValue];
+        NSLog(@"signal %d", signalStrength);
+        return signalStrength;
+    }
+    return 0;
+    
+    /*
 	void *libHandle = dlopen("/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony", RTLD_LAZY);
 	int (*CTGetSignalStrength)();
 	CTGetSignalStrength = dlsym(libHandle, "CTGetSignalStrength");
@@ -206,5 +225,6 @@ int getSignalStrength() {
 	int result = CTGetSignalStrength();
 	dlclose(libHandle);	
 	return result;
+     */
 }
 
